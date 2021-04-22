@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://UncleBitcoin.github.io/HotDogeSwap",
+  "homepage": "https://hotdogeswap.github.io/dogeswap-v2-periphery",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
